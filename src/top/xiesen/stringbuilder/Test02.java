@@ -16,6 +16,5 @@ public class Test02 {
 		System.out.println(sb);
 		//StringBuffer 线程不安全 效率低
 		StringBuffer sb2 = new StringBuffer();
-
 	}
 }
